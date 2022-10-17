@@ -1,0 +1,6 @@
+3a0853f my introduction
+ed353f7 deleted file3
+ec57457 renamed file2.txt by file3.txt
+281829e second file
+b0ddeac modified
+7d7ef63 this is my git file
